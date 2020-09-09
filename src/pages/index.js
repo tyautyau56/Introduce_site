@@ -14,14 +14,13 @@ const HomeIndex = () => {
         <title>{siteTitle}</title>
         <meta name="description" content={siteDescription} />
       </Helmet>
-
       <div id="main">
         <section id="one">
           <header className="major">
             <h2>
               Ipsum lorem dolor aliquam ante commodo
               <br />
-              magna sed accumsan arcu neque.
+              magna sed accompany arcu neque.
             </h2>
           </header>
           <p>
@@ -40,12 +39,9 @@ const HomeIndex = () => {
             </li>
           </ul>
         </section>
-
         <section id="two">
           <h2>Recent Work</h2>
-
           <Gallery />
-
           <ul className="actions">
             <li>
               <a href="#" className="button">
@@ -54,7 +50,6 @@ const HomeIndex = () => {
             </li>
           </ul>
         </section>
-
         <section id="three">
           <h2>Get In Touch</h2>
           <p>
