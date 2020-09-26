@@ -6,7 +6,7 @@ package-lock.json
 yarn.lock
 
 # Build directory
-/public
+# /public
 .DS_Store
 
 # JetBrains IDE
