@@ -5,12 +5,12 @@ const Footer = () => (
     <div className="inner">
       <ul className="icons">
         <li>
-          <a href="https://twitter.com/tyautyau56" className="icon fa-twitter">
+          <a href="https://twitter.com/tyautyau56" className="icon fa-twitter" target="_blank">
             <span className="label">Twitter</span>
           </a>
         </li>
         <li>
-          <a href="https://github.com/tyautyau56" className="icon fa-github">
+          <a href="https://github.com/tyautyau56" className="icon fa-github" target="_blank">
             <span className="label">Github</span>
           </a>
         </li>

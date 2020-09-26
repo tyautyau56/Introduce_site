@@ -1,7 +1,7 @@
 import React, { useCallback } from 'react'
 import PropTypes from 'prop-types'
 
-const GalleryItem = ({id, source, thumbnail, caption, description, position, toggleLightbox}) => {
+const GalleryItem = ({id, source, thumbnail, caption, description, position, toggleLightbox, link}) => {
 
     const onClick = useCallback((e) => {
         e.preventDefault()
@@ -17,8 +17,8 @@ const GalleryItem = ({id, source, thumbnail, caption, description, position, tog
         <img src={thumbnail} />
         </a>
 
-        <h3>{caption}</h3>
-        <p>{description}</p>
+        <h3><a href={link} target="_blank">{caption}</a></h3>
+      <p>{description}</p>
     </article>)
 };
 

@@ -22,7 +22,7 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-            web開発やドラムをしている高専生です。いつもはNITTCの同学年でやっている<a href="https://github.com/tokuyama-it">ITをむさぼる会</a>で開発などをして活動しています。
+            web開発やドラムをしている高専生です。いつもはNITTCの同学年でやっている<a href="https://github.com/tokuyama-it" target="_blank">ITをむさぼる会</a>で開発などをして活動しています。
           </p>
         </section>
         <section id="two">
@@ -30,8 +30,8 @@ const HomeIndex = () => {
           <Gallery />
           <ul className="actions">
             <li>
-              <a href="https://github.com/tyautyau56" className="button">
-                Github
+              <a href="https://github.com/tyautyau56" className="button" target="_blank">
+                My Github
               </a>
             </li>
           </ul>
