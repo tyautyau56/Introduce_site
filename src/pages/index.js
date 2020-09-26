@@ -22,7 +22,7 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-            web開発やドラムをしている高専生です。いつもはNITTCの同学年でやっているITをむさぼる会で開発などをして活動しています。
+            web開発やドラムをしている高専生です。いつもはNITTCの同学年でやっている<a href="https://github.com/tokuyama-it">ITをむさぼる会</a>で開発などをして活動しています。
           </p>
         </section>
         <section id="two">
@@ -35,11 +35,6 @@ const HomeIndex = () => {
               </a>
             </li>
           </ul>
-        </section>
-        <section id="three">
-          <p>
-            このサイトはGatsby.jsを使用して作らせてもらいました
-          </p>
         </section>
       </div>
     </Layout>
