@@ -5,7 +5,7 @@ const Footer = () => (
     <div className="inner">
       <ul className="icons">
         <li>
-          <a href="https://twitter.com/x7jkUzTfgbF4gBd" className="icon fa-twitter">
+          <a href="https://twitter.com/tyautyau56" className="icon fa-twitter">
             <span className="label">Twitter</span>
           </a>
         </li>
