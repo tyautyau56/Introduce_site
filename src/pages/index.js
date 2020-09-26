@@ -30,8 +30,8 @@ const HomeIndex = () => {
           <Gallery />
           <ul className="actions">
             <li>
-              <a href="#" className="button">
-                Full Portfolio
+              <a href="https://github.com/tyautyau56" className="button">
+                Github
               </a>
             </li>
           </ul>
