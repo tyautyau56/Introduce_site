@@ -1,18 +1,14 @@
 import React, { useCallback } from 'react'
 import PropTypes from 'prop-types'
 
-const GalleryItem = ({id, source, thumbnail, caption, description, position, toggleLightbox, link}) => {
+const GalleryItem = ({id, source, thumbnail, caption, description, link}) => {
 
-    const onClick = useCallback((e) => {
-        e.preventDefault()
-        toggleLightbox(position)
-    }, [position, toggleLightbox]);
 
     return (<article key={id} className="6u 12u$(xsmall) work-item">
         <a
         className="image fit thumb"
-        href={source}
-        onClick={onClick}
+        href={link}
+        target="_blank"
         >
         <img src={thumbnail} />
         </a>
@@ -30,7 +26,6 @@ GalleryItem.propTypes = {
   caption: PropTypes.string.isRequired,
   description: PropTypes.string.isRequired,
   position: PropTypes.string.isRequired,
-  toggleLightbox: PropTypes.func.isRequired
 }
 
 export default GalleryItem
