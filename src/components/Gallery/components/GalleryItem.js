@@ -13,7 +13,7 @@ const GalleryItem = ({id, thumbnail, caption, description, link}) => {
         <img src={thumbnail} />
         </a>
 
-        <h3><a href={link} target="_blank">{caption}</a></h3>
+        <h3><a href={link} target="_blank" rel="noreferrer">{caption}</a></h3>
       <p>{description}</p>
     </article>)
 };
