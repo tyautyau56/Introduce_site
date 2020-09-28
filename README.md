@@ -8,4 +8,4 @@ This site was created using Gatsby's starter, [gatsby-starter-strata](https://gi
 > Gatsby starter based on the Strata site template, designed by [HTML5 UP](https://html5up.net/strata). Check out https://codebushi.com/gatsby-starters-and-themes/ for more Gatsby starters and templates.
 
 
-Click [here](https://tyatyau56.netlify.app)
+Click [here](https://tyautyau56.netlify.app)
