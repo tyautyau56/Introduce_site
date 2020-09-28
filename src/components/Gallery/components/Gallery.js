@@ -11,7 +11,6 @@ const Gallery = ({ images = DEFAULT_IMAGES }) => {
         {images.map((obj, i) => {
         return (<GalleryItem
           id={obj.id}
-          source={obj.source}
           thumbnail={obj.thumbnail}
           caption={obj.caption}
           description={obj.description}

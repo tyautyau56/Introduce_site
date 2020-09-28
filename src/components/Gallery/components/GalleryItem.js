@@ -1,7 +1,7 @@
 import React, { useCallback } from 'react'
 import PropTypes from 'prop-types'
 
-const GalleryItem = ({id, source, thumbnail, caption, description, link}) => {
+const GalleryItem = ({id, thumbnail, caption, description, link}) => {
 
 
     return (<article key={id} className="6u 12u$(xsmall) work-item">

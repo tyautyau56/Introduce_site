@@ -18,15 +18,15 @@ const HomeIndex = () => {
         <section id="one">
           <header className="major">
             <h2>
-              自己紹介
+              Self-Introduction
             </h2>
           </header>
           <p>
-            web開発やドラムをしている高専生です。いつもはNITTCの同学年でやっている<a href="https://github.com/tokuyama-it" target="_blank">ITをむさぼる会</a>で開発などをして活動しています。
+            web開発やドラムをしている高専生です。いつもはNITTCの同学年でやっている<a href="https://github.com/tokuyama-it" target="_blank">ITをむさぼる会</a>で開発などをして活動しています。<br/>
           </p>
         </section>
         <section id="two">
-          <h2>最近の活動</h2>
+          <h2>Recent Work</h2>
           <Gallery />
           <ul className="actions">
             <li>

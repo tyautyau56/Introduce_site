@@ -13,8 +13,8 @@ const Header = () => (
         <strong>tyautyau56</strong>
       </h1>
       <p>
-        NITTC IE2<br/>
-        #kosen19s
+        #kosen19s<br/>
+        徳山高専　情報電子工学科 学生
       </p>
     </div>
     <Footer />
