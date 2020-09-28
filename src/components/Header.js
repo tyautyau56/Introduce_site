@@ -14,7 +14,7 @@ const Header = () => (
       </h1>
       <p>
         #kosen19s<br/>
-        徳山高専　情報電子工学科 学生
+        NIT,Tokuyama College IE2
       </p>
     </div>
     <Footer />
