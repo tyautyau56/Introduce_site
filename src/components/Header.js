@@ -13,7 +13,8 @@ const Header = () => (
         <strong>tyautyau56</strong>
       </h1>
       <p>
-        NITTC IE2
+        NITTC IE2<br/>
+        #kosen19s
       </p>
     </div>
     <Footer />
