@@ -16,7 +16,7 @@ const Footer = () => (
         </li>
       </ul>
       <ul className="copyright">
-        <li>&copy; Gatsby Starter Strata</li>
+        <li>&copy; 2020 tyautyau56 ･ Powerd by <a href="https://github.com/codebushi/gatsby-starter-strata">Gatsby Starter Strata</a> for <a href="https://www.gatsbyjs.com">Gatsby</a>.</li>
       </ul>
     </div>
   </div>
