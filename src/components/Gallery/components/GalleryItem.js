@@ -10,6 +10,7 @@ const GalleryItem = ({id, thumbnail, caption, description, link}) => {
         href={link}
         target="_blank"
         name={link}
+        rel="noreferrer"
         >
         <img src={thumbnail} alt={caption}/>
         </a>
