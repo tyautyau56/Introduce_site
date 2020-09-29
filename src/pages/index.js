@@ -10,7 +10,10 @@ const HomeIndex = () => {
 
   return (
     <Layout>
-      <Helmet>
+      <Helmet
+        htmlAttributes={{
+          lang: 'ja',
+        }}>
         <title>{siteTitle}</title>
         <meta name="description" content={siteDescription} />
       </Helmet>
