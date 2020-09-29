@@ -9,8 +9,9 @@ const GalleryItem = ({id, thumbnail, caption, description, link}) => {
         className="image fit thumb"
         href={link}
         target="_blank"
+        name={link}
         >
-        <img src={thumbnail} />
+        <img src={thumbnail} alt={caption}/>
         </a>
 
         <h3><a href={link} target="_blank" rel="noreferrer">{caption}</a></h3>
