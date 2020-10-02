@@ -29,6 +29,13 @@ const HomeIndex = () => {
           </p>
         </section>
         <section id="two">
+          <h2>Career</h2>
+          <ul className="actions">
+            <li>2019年 3月 周南市立須々万中学校卒業</li><br/>
+            <li>2019年 4月 徳山工業高等専門学校 情報電子工学科 入学</li>
+          </ul>
+        </section>
+        <section id="three">
           <h2>Recent Work</h2>
           <Gallery />
           <ul className="actions">
