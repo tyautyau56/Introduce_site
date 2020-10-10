@@ -39,7 +39,7 @@ const HomeIndex = () => {
         <section id="three">
           <h2>Performance</h2>
           <ul className="actions">
-            <li><p>そのうち実績ができることだろうね</p></li>
+            <li><p>そのうち実績ができることだろう</p></li>
           </ul>
         </section>
         <section id="four">
