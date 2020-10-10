@@ -37,6 +37,12 @@ const HomeIndex = () => {
           </ul>
         </section>
         <section id="three">
+          <h2>Performance</h2>
+          <ul className="actions">
+            <li><p>そのうち実績ができることだろうね</p></li>
+          </ul>
+        </section>
+        <section id="four">
           <h2>Recent Work</h2>
           <Gallery />
           <ul className="actions">
