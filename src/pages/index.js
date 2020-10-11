@@ -25,7 +25,7 @@ const HomeIndex = () => {
             </h2>
           </header>
           <p>
-            web開発やドラムをしている高専生です。いつもはNITTCの同学年でやっている<a href="https://github.com/tokuyama-it" target="_blank" rel="noreferrer">ITをむさぼる会</a>で開発などをして活動しています。<br/>
+            web開発やドラムをしている高専生です.いつもはNITTCの同学年でやっている<a href="https://github.com/tokuyama-it" target="_blank" rel="noreferrer">ITをむさぼる会</a>で開発などをして活動しています.<br/>TypeScriptとRustを勉強中です.
           </p>
         </section>
         <section id="two">
