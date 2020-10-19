@@ -37,8 +37,9 @@ const HomeIndex = () => {
           </ul>
         </section>
         <section id="three">
+          <h2>Skill</h2>
           <ul className="actions">
-            <li></li>
+            <li><p>Python</p></li>
           </ul>
         </section>
         <section id="four">
