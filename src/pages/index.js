@@ -40,6 +40,7 @@ const HomeIndex = () => {
           <h2>Skill</h2>
           <ul className="actions">
             <li><p>Python</p></li>
+            <li><p></p></li>
           </ul>
         </section>
         <section id="four">
