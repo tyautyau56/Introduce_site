@@ -14,7 +14,7 @@ const HomeIndex = () => {
         htmlAttributes={{
           lang: 'ja',
         }}>
-        <title>{siteTitle}</title>
+        <title>tyautyau56's Introduce site</title>
         <meta name="description" content={siteDescription} />
       </Helmet>
       <div id="main">
